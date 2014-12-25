@@ -2,6 +2,7 @@ ftest
 =====
 
 first test repo
+next line
 
 a>|b|c|d
 --|--|--|--|
